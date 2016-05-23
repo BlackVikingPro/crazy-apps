@@ -1,0 +1,216 @@
+REM Get Shrekt | By: BlackVikingPro. See more: lab.blackvikingpro.com/ducky/payloads
+DELAY 1000
+GUI d
+DELAY 1500
+GUI r
+DELAY 800
+STRING notepad.exe
+ENTER
+DELAY 500
+STRING                      _____ 
+ENTER
+STRING                   ,-'     `._ 
+ENTER
+STRING                 ,'           `.        ,-. 
+ENTER
+STRING               ,'               \       ),.\ 
+ENTER
+STRING     ,.       /                  \     /(  \; 
+ENTER
+STRING    /'\\     ,o.        ,ooooo.   \  ,'  `-') 
+ENTER
+STRING    )) )`. d8P"Y8.    ,8P"""""Y8.  `'  .--"' 
+ENTER
+STRING   (`-'   `Y'  `Y8    dP       `'     / 
+ENTER
+STRING    `----.(   __ `    ,' ,---.       ( 
+ENTER
+STRING           ),--.`.   (  ;,---.        ) 
+ENTER
+STRING          / \O_,' )   \  \O_,'        | 
+ENTER
+STRING         ;  `-- ,'       `---'        | 
+ENTER
+STRING         |    -'         `.           | 
+ENTER
+STRING        _;    ,            )          : 
+ENTER
+STRING     _.'|     `.:._   ,.::" `..       | 
+ENTER
+STRING  --'   |   .'     """         `      |`. 
+ENTER
+STRING        |  :;      :   :     _.       |`.`.-'--. 
+ENTER
+STRING        |  ' .     :   :__.,'|/       |  \ 
+ENTER
+STRING        `     \--.__.-'|_|_|-/        /   ) 
+ENTER
+STRING         \     \_   `--^"__,'        ,    | 
+ENTER
+STRING   -hrr- ;  `    `--^---'          ,'     | 
+ENTER
+STRING          \  `                    /      / 
+ENTER
+STRING           \   `    _ _          / 
+ENTER
+STRING            \           `       / 
+ENTER
+STRING             \           '    ,' 
+ENTER
+STRING              `.       ,   _,' 
+ENTER
+STRING                `-.___.---' 
+ENTER
+ENTER
+STRING l
+ENTER
+STRING o
+ENTER
+STRING l
+ENTER
+ENTER
+STRING y
+ENTER
+STRING o
+ENTER
+STRING u
+ENTER
+ENTER
+STRING j
+ENTER
+STRING u
+ENTER
+STRING s
+ENTER
+STRING t
+ENTER
+ENTER
+STRING g
+ENTER
+STRING o
+ENTER
+STRING t
+ENTER
+ENTER
+STRING s
+ENTER
+STRING h
+ENTER
+STRING r
+ENTER
+STRING e
+ENTER
+STRING k
+ENTER
+STRING t
+ENTER
+STRING !
+ENTER
+STRING !
+ENTER
+STRING !
+DELAY 100
+ALT SPACE
+STRING x
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
+UPARROW
